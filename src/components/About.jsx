@@ -17,7 +17,11 @@ const About = () => {
               <p>Hi. I'm Imomali, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
+              <p>
+                Firstly, I am a student at <a href="https://mephi.ru/">MEPHI University</a> in Moscow.
+                Getting Bachelor degree in major Cyber Security.
+              </p> <br />
+              <p>Moreover, I am passionate about building excellent software that improves
               the lives of those around me. I specialize in creating software
               for clients ranging from individuals and small-businesses all the
               way to large enterprise corporations.</p>  
